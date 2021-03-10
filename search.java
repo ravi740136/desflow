@@ -4,5 +4,6 @@ String searchId;
 String searchName;
 
 public String getId(){
+return searchId;
 }
 }
