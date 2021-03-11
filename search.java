@@ -1,6 +1,6 @@
 package desflow.search;
 public class Search{
-String searchId;
+String desflowid;
 String searchName;
 
 public String getId(){
